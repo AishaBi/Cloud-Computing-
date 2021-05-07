@@ -1,0 +1,1 @@
+[('Labour', 380417), ('Hartlepool', 149624), ('#ElectionResults2021', 16344), ('#VibePayFriday', None), ('Tories', 106372), ('#BandcampFriday', None), ('#FridayFeeling', 15502), ('Grenfell', 14850), ('Corbyn', 82810), ('Starmer', 143457)]
